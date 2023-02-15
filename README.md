@@ -1,6 +1,6 @@
 
 <hr>
-
+<h1 "align-center">Blog Anabella</h1>
 <hr>
 <p align="center">
  <img width="900px" src="https://user-images.githubusercontent.com/103331086/219096677-b5d0f3b5-f663-4306-87d0-ab8853b54e72.PNG" />
