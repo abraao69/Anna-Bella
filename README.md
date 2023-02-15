@@ -1,4 +1,4 @@
-<h1 align="center"><img height="250px" src="./Img/capa.png"></h1>
+
 <hr>
 
 <hr>
